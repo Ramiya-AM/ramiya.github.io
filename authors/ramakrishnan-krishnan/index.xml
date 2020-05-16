@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramakrishnan Krishnan on Ramiya</title>
+    <link>https://ramiya.github.io/authors/ramakrishnan-krishnan/</link>
+    <description>Recent content in Ramakrishnan Krishnan on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2019 15:44:25 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/authors/ramakrishnan-krishnan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Individual tree detection from airborne laser scanning data based on supervoxels and local convexity</title>
+      <link>https://ramiya.github.io/publication/j4/</link>
+      <pubDate>Tue, 04 Jun 2019 15:44:25 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/j4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A supervoxel-based spectro-spatial approach for 3D urban point cloud labelling</title>
+      <link>https://ramiya.github.io/publication/j1/</link>
+      <pubDate>Mon, 25 Jul 2016 15:23:32 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/j1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation based building detection approach from LiDAR point cloud</title>
+      <link>https://ramiya.github.io/publication/j5/</link>
+      <pubDate>Thu, 28 Apr 2016 15:44:22 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/j5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic labelling of urban point cloud data</title>
+      <link>https://ramiya.github.io/publication/j8/</link>
+      <pubDate>Sat, 25 Jan 2014 15:44:13 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/j8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

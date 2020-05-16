@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramiya M Anandakumar on Ramiya</title>
+    <link>https://ramiya.github.io/authors/ramiya-m-anandakumar/</link>
+    <description>Recent content in Ramiya M Anandakumar on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2016 15:23:32 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/authors/ramiya-m-anandakumar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A supervoxel-based spectro-spatial approach for 3D urban point cloud labelling</title>
+      <link>https://ramiya.github.io/publication/j1/</link>
+      <pubDate>Mon, 25 Jul 2016 15:23:32 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/j1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

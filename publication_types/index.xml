@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Ramiya</title>
+    <link>https://ramiya.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2019 15:44:25 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2</title>
+      <link>https://ramiya.github.io/publication_types/2/</link>
+      <pubDate>Tue, 04 Jun 2019 15:44:25 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://ramiya.github.io/publication_types/1/</link>
+      <pubDate>Sun, 25 Nov 2018 17:21:02 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0</title>
+      <link>https://ramiya.github.io/publication_types/0/</link>
+      <pubDate>Thu, 25 Jun 2015 17:21:15 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://ramiya.github.io/publication_types/6/</link>
+      <pubDate>Tue, 26 Jun 2007 10:56:34 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication_types/6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Ramiya</title>
+    <link>https://ramiya.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Nov 2018 17:21:02 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D CityGML building modelling from LiDAR point cloud data</title>
+      <link>https://ramiya.github.io/publication/c1/</link>
+      <pubDate>Sun, 25 Nov 2018 17:21:02 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Modelling of IIST campus using terrestrial laser scanning data</title>
+      <link>https://ramiya.github.io/publication/c2/</link>
+      <pubDate>Sun, 28 Oct 2018 17:21:05 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D laser scanning for estimation of large scale buildings rooftops based solar energy in urban environments</title>
+      <link>https://ramiya.github.io/publication/c3/</link>
+      <pubDate>Sun, 31 Dec 2017 17:21:07 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral and LiDAR data fusion for species classification (3D)</title>
+      <link>https://ramiya.github.io/publication/c7/</link>
+      <pubDate>Sun, 25 Dec 2016 17:21:20 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A super-voxels based approach for urban tree mapping using airborne LiDAR.</title>
+      <link>https://ramiya.github.io/publication/c6/</link>
+      <pubDate>Sat, 25 Jun 2016 17:21:17 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wasteland Development using Remote Sensing and GIS</title>
+      <link>https://ramiya.github.io/publication/c12/</link>
+      <pubDate>Thu, 26 Jun 2014 10:54:25 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of 3D segmentation algorithms for Building detection from LiDAR point cloud data</title>
+      <link>https://ramiya.github.io/publication/c4/</link>
+      <pubDate>Wed, 25 Jun 2014 17:21:10 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Atmosphere on Object based Image Analysis (OBIA)</title>
+      <link>https://ramiya.github.io/publication/c8/</link>
+      <pubDate>Mon, 25 Jun 2012 17:21:24 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of tropical forest biophysical parameters using near UV and NIR reflectance from GOSAT TANSO  CAI sensor</title>
+      <link>https://ramiya.github.io/publication/c9/</link>
+      <pubDate>Sat, 25 Jun 2011 17:21:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>River Habitat mapping using Airborne Imaging Spectrometry</title>
+      <link>https://ramiya.github.io/publication/c10/</link>
+      <pubDate>Wed, 25 Jun 2008 17:21:32 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Route Analysis for Solid Waste Disposal Using GIS</title>
+      <link>https://ramiya.github.io/publication/c11/</link>
+      <pubDate>Mon, 26 Jun 2006 10:54:22 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

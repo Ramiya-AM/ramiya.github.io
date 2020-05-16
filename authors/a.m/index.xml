@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.M. on Ramiya</title>
+    <link>https://ramiya.github.io/authors/a.m./</link>
+    <description>Recent content in A.M. on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2016 17:21:20 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/authors/a.m./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyperspectral and LiDAR data fusion for species classification (3D)</title>
+      <link>https://ramiya.github.io/publication/c7/</link>
+      <pubDate>Sun, 25 Dec 2016 17:21:20 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of tropical forest biophysical parameters using near UV and NIR reflectance from GOSAT TANSO  CAI sensor</title>
+      <link>https://ramiya.github.io/publication/c9/</link>
+      <pubDate>Sat, 25 Jun 2011 17:21:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/c9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ramiya</title>
+    <link>https://ramiya.github.io/project/</link>
+    <description>Recent content in Projects on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 11:55:30 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Documentation of cultural heritage</title>
+      <link>https://ramiya.github.io/project/culturalheritage-mapping/</link>
+      <pubDate>Thu, 27 Jun 2019 11:55:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/project/culturalheritage-mapping/</guid>
+      <description>&lt;p&gt;Preserving the architectural marvels of the country in this digital era gained momentum with recent scientific initiatives
+of the Government on Digital Heritage Mapping. The digital documentation helps in preserving the engineering
+skills of our ancestors and can act as a testimony to the civilization of the past. With the heritage sites prone to
+natural weathering, natural disasters, and aging digitally preserving the natural heritage become pertinent for future
+generation.&lt;/p&gt;
+&lt;p&gt;The objective of this research project was to employ terrestrial laser scanner and create a 3D digital documentation
+of Koyikkal Palace in Nedumangad in Thiruvananthapuram, which was built in the 15th century.&lt;/p&gt;
+&lt;p&gt;Student contributors: Mr. Asif Musthafa&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Reconstruction from LiDAR point cloud</title>
+      <link>https://ramiya.github.io/project/3d-reconstruction/</link>
+      <pubDate>Thu, 27 Jun 2019 11:55:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/project/3d-reconstruction/</guid>
+      <description>&lt;p&gt;3D city models, digital models of urban terrain and objects are key for managing the complex urban information spaces.The semantically labelled LiDAR dataset can be used to create 3D models. These models reconstructed from the labelled point cloud are crucial to obtain a holistic view for several applications not restricted to infrastructure management, urban planning, emergency management, augmented reality. 
+In this direction, algorithms and methodological approaches for reconstructing  man-made planar structures such as buildings and natural resources such as trees from point cloud was developed. Some of the results of 3D models of trees and buildings obtained is shown in figures.&lt;/p&gt;
+&lt;p&gt;Student contributors: Mithun Mohan, Preethi PM, Arun R Nath&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Semantic Labelling of Airborne LiDAR data</title>
+      <link>https://ramiya.github.io/project/semanticlabelling/</link>
+      <pubDate>Thu, 27 Jun 2019 11:55:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/project/semanticlabelling/</guid>
+      <description>&lt;p&gt;Semantic labelling of point cloud into various landuse landcover categories is one of the pivotal steps to utilize LiDAR point cloud for creating measurable 3D virtual models. The computationally complex, voluminous and
+unstructured LiDAR point cloud makes this a daunting task. As with any high resolution dataset, heterogeneous appearance of the same object makes it even more complex. Hence, automatic extraction of various objects from these
+complex datasets demands advanced 3D processing techniques and has remained an open research problem.&lt;/p&gt;
+&lt;p&gt;Major research goal was to develop an efficient and reliable algorithmic framework for semantically labelling 3D
+coloured LiDAR point cloud (point cloud with spectral data integrated) acquired over an urban environment using
+computer vision techniques in an open source prototype system. Some of the highlights of this research are:
+A novel 3D object-based framework for semantically labelling the 3D coloured LiDAR point cloud obtained by
+integrating LiDAR point cloud and multispectral imagery was developed.
+To improve the efficiency of the algorithm while processing highly dense point cloud, a computationally efficient
+supervoxels-based LCCP (Local Cloud Connectivity Patches) segmentation approach has been adapted and
+extended for creating meaningful segments from the point cloud.
+The study also critically assess the role of spectral and geometrical information in the various stages of object-
+based point cloud labelling, namely, segmentation, feature extraction, and classification.&lt;/p&gt;
+&lt;p&gt;Publications:
+Ramiya, Anandakumar M., Rama Rao Nidamanuri, and Ramakrishnan Krishnan. 2016. Supervoxels Based
+Spectro Spatial Approach for 3D Urban Point Cloud Labelling. International Journal of Remote Sensing. 37:17,
+4172-4200, DOI:10.1080/01431161.2016.1211348. Publisher:Taylor and Francis.&lt;/p&gt;
+&lt;p&gt;Ramiya, Anandakumar M., Rama Rao Nidamanuri, and Ramakrishnan Krishnan. 2018. Critical assessment
+of semantic object based point cloud labelling on urban LiDAR dataset. GeoCarto International. Publisher:
+Taylor and Francis.&lt;/p&gt;
+&lt;p&gt;Ramiya, Anandakumar M., Rama Rao Nidamanuri, and Ramakrishnan Krishnan. 2016. Object-Oriented
+Semantic Labelling of Spectral - Spatial LiDAR Point Cloud for Urban Land Cover Classification and Buildings
+Detection. Geocarto International. 31 (2). doi:10.1080/10106049.2015.1034195.Publisher: Taylor and Francis.&lt;/p&gt;
+&lt;p&gt;Ramiya, Anandakumar M., Rama Rao Nidamanuri, and Ramakrishnan Krishnan. 2017. Segmentation
+based building detection approach from LiDAR point cloud. Egypt. J. Remote Sensing Space Sci.20(1), 71-
+77.Publisher : Elsevier.&lt;/p&gt;
+&lt;p&gt;Ramiya, Anandakumar M., Rama Rao Nidamanuri, and Ramakrishnan Krishnan. 2014. Semantic Labeling
+of urban point cloud data. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial
+Information Sciences, Volume XL-8, 2014, pp.907-911 .DOI : 10.5194/isprsarchives-XL-8-907-2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CityGML based 3D models</title>
+      <link>https://ramiya.github.io/project/citygml/</link>
+      <pubDate>Thu, 27 Jun 2019 11:55:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/project/citygml/</guid>
+      <description>&lt;p&gt;The main objective of this research was to develop a methodological workflow to create
+3D building models in CityGML standard from airborne LiDAR point cloud. 3D building models with levels of detail
+(LoD1 and LoD2) were generated from the building points in CityGML standard using commercial (ArcGISPro) well
+as open source packages (3dfier, Citygml4j).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual tree detection using airborne LiDAR data</title>
+      <link>https://ramiya.github.io/project/itd/</link>
+      <pubDate>Thu, 27 Jun 2019 11:55:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/project/itd/</guid>
+      <description>&lt;p&gt;Precise mapping of urban green spaces is critical for sustainable development of urban ecosystem.This study proposes an object-based labelling framework for individually delineating tree canopy clusters in urban
+green spaces from airborne LiDAR dataset.The results  indicate the possibility of delineating multiple tree canopies which are overlapped, a situation which often leads to erroneous
+results from optical imagery. The delineated trees can be used for extracting various structural parameters for efficient monitoring of green space&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integration of LiDAR ad other sensors</title>
+      <link>https://ramiya.github.io/project/cropstructuredynamics/</link>
+      <pubDate>Thu, 27 Jun 2019 11:55:30 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/project/cropstructuredynamics/</guid>
+      <description>&lt;p&gt;Multi-sensor fusion technique has been a very active research area in recent years wherein the complementary characteristics of various sensors are exploited for improved object detection. Owing to the diverse applications it can cater
+to, the LiDAR and multispectral / hyperspectral images are potential pairs of sensors for multi-sensor fusion. 
+Some of the applications where this has been carried out include agriculture, forest type mapping and landuse/landcover classification.&lt;/p&gt;
+&lt;p&gt;Student contributors: Reji Vipin, Saheba Bhatnagar, Bibin Wilson
+Colloborators: Dr Rama Rao Nidamanuri&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

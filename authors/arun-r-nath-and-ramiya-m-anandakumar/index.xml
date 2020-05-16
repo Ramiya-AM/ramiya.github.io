@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun R Nath and Ramiya M Anandakumar on Ramiya</title>
+    <link>https://ramiya.github.io/authors/arun-r-nath-and-ramiya-m-anandakumar/</link>
+    <description>Recent content in Arun R Nath and Ramiya M Anandakumar on Ramiya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2016 15:44:20 +0530</lastBuildDate>
+    
+	    <atom:link href="https://ramiya.github.io/authors/arun-r-nath-and-ramiya-m-anandakumar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Reconstruction of Buildings from classified LiDAR point cloud</title>
+      <link>https://ramiya.github.io/publication/j6/</link>
+      <pubDate>Sat, 25 Jun 2016 15:44:20 +0530</pubDate>
+      
+      <guid>https://ramiya.github.io/publication/j6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
